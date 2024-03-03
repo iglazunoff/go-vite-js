@@ -1,4 +1,4 @@
-package vitejs
+package go_vite_js
 
 import (
 	"strings"
