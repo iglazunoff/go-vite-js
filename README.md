@@ -67,5 +67,3 @@ Define template for some page
     </html>
 {{ end }}
 ```
-
-Use
