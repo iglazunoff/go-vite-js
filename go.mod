@@ -1,3 +1,3 @@
-module github.com/iglazunoff/vitejs
+module github.com/iglazunoff/go-vite-js
 
 go 1.22.0
