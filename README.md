@@ -13,7 +13,7 @@ Create vite.js adapter & define adapter like payload for template, for example i
 ```go
 func main() {
     // creating new adapter
-    vitejs := vitejs.Default()
+    govite := govite.Default()
 
     // define payload for route
     payload := &gin.H{
